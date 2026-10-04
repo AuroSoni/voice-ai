@@ -1,0 +1,10 @@
+{
+  "model": "gemini/transcribe",
+  "responses": [
+    {
+      "status": 200,
+      "contentType": "application/json; charset=UTF-8",
+      "body": "{\n  \"candidates\": [\n    {\n      \"content\": {\n        \"parts\": [\n          {\n            \"audioTranscription\": {\n              \"text\": \"नमस्ते, आज मौसम बहुत अच्छा है और मैं बाजार जा रहा हूं।\"\n            }\n          }\n        ],\n        \"role\": \"model\"\n      },\n      \"finishReason\": \"STOP\",\n      \"index\": 0\n    }\n  ],\n  \"usageMetadata\": {\n    \"promptTokenCount\": 101,\n    \"totalTokenCount\": 101,\n    \"promptTokensDetails\": [\n      {\n        \"modality\": \"TEXT\",\n        \"tokenCount\": 1\n      },\n      {\n        \"modality\": \"AUDIO\",\n        \"tokenCount\": 100\n      }\n    ],\n    \"serviceTier\": \"standard\"\n  },\n  \"modelVersion\": \"gemini-3.5-transcribe\",\n  \"responseId\": \"ds7Bav2eMYajqfkP3K3O6Ak\"\n}\n"
+    }
+  ]
+}

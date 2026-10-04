@@ -1,0 +1,10 @@
+{
+  "model": "openai/gpt-transcribe",
+  "responses": [
+    {
+      "status": 200,
+      "contentType": "text/event-stream; charset=utf-8",
+      "body": "data: {\"type\":\"transcript.text.delta\",\"delta\":\"न\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\"म\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\"स्त\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\"े\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\",\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" आज\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" मौसम\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" बहुत\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" अच्छा\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" है\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" और\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" मैं\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" बाजार\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" जा\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" रहा\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\" हूँ\"}\r\n\r\ndata: {\"type\":\"transcript.text.delta\",\"delta\":\"।\"}\r\n\r\ndata: {\"type\":\"transcript.text.done\",\"text\":\"नमस्ते, आज मौसम बहुत अच्छा है और मैं बाजार जा रहा हूँ।\",\"usage\":{\"type\":\"duration\",\"seconds\":4},\"languages\":[{\"code\":\"hi\"}]}\r\n\r\ndata: [DONE]\r\n\r\n"
+    }
+  ]
+}

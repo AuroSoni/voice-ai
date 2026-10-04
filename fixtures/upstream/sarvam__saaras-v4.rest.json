@@ -1,0 +1,10 @@
+{
+  "model": "sarvam/saaras-v4",
+  "responses": [
+    {
+      "status": 200,
+      "contentType": "application/json",
+      "body": "{\"request_id\":\"20261004_367f83f0-cb77-4723-850c-9f37b0b9310c\",\"transcript\":\"नमस्ते, आज मौसम बहुत अच्छा है और मैं बाज़ार जा रहा हूँ।\",\"language_code\":\"hi-IN\"}"
+    }
+  ]
+}
