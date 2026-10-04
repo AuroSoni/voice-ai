@@ -1,0 +1,60 @@
+{"meta":{"model":"sarvam/saaras-v3-realtime","upstreamModel":"saaras:v3-realtime","url":"wss://api.sarvam.ai/speech-to-text-realtime/ws?model=saaras%3Av3-realtime&language_code=hi-IN&mode=transcribe&sample_rate=16000","audio":"hi-4s.wav","recordedAt":"2026-10-04T03:56:25.173Z"}}
+{"t":0,"phase":"stream","data":"{\"event\":\"session.begin\",\"request_id\":\"20261004_73f0588d-ccf2-484e-b6c5-71e4af3d33c0\",\"config\":{\"model\":\"saaras:v3-realtime\",\"language_code\":\"hi-IN\",\"encoding\":\"linear16\",\"sample_rate\":16000,\"stream_type\":\"balanced\",\"mode\":\"transcribe\",\"prompt\":null,\"keyterms\":null,\"turn_detection\":\"vad\",\"threshold\":0.3,\"prefix_padding_ms\":300,\"silence_duration_ms\":1000,\"min_speech_duration_ms\":250,\"return_timestamps\":false}}"}
+{"t":317,"phase":"stream","data":"{\"event\":\"vad.speech_start\",\"utterance_idx\":0,\"confidence\":0.97}"}
+{"t":900,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते\"}"}
+{"t":916,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते\"}"}
+{"t":921,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते\"}"}
+{"t":1855,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते\"}"}
+{"t":1864,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते\"}"}
+{"t":1868,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज\"}"}
+{"t":1874,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज\"}"}
+{"t":1879,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम\"}"}
+{"t":1884,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम\"}"}
+{"t":1889,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत\"}"}
+{"t":1894,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत\"}"}
+{"t":2878,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज\"}"}
+{"t":2881,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज\"}"}
+{"t":2887,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम\"}"}
+{"t":2892,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम\"}"}
+{"t":2898,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत\"}"}
+{"t":2902,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत\"}"}
+{"t":2908,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा\"}"}
+{"t":2913,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा\"}"}
+{"t":2918,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है\"}"}
+{"t":2924,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है\"}"}
+{"t":2929,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और\"}"}
+{"t":2935,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और\"}"}
+{"t":2943,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं\"}"}
+{"t":2945,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं\"}"}
+{"t":3881,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत\"}"}
+{"t":3889,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा\"}"}
+{"t":3898,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा\"}"}
+{"t":3905,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है\"}"}
+{"t":3914,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है\"}"}
+{"t":3918,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और\"}"}
+{"t":3924,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और\"}"}
+{"t":3930,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं\"}"}
+{"t":3937,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं\"}"}
+{"t":3945,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज\"}"}
+{"t":3951,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़\"}"}
+{"t":3958,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार\"}"}
+{"t":3963,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार\"}"}
+{"t":3969,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा\"}"}
+{"t":3977,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा\"}"}
+{"t":3985,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा रहा\"}"}
+{"t":3992,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा रहा\"}"}
+{"t":3995,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा रहा हूँ\"}"}
+{"t":4003,"phase":"stream","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा रहा हूँ\"}"}
+{"t":4054,"phase":"finish","data":"{\"event\":\"vad.speech_end\",\"utterance_idx\":0,\"confidence\":0.0}"}
+{"t":4074,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं\"}"}
+{"t":4079,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज\"}"}
+{"t":4085,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़\"}"}
+{"t":4091,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार\"}"}
+{"t":4097,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार\"}"}
+{"t":4101,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा\"}"}
+{"t":4109,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा\"}"}
+{"t":4113,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा रहा\"}"}
+{"t":4119,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा रहा\"}"}
+{"t":4124,"phase":"finish","data":"{\"event\":\"transcript.partial\",\"utterance_idx\":0,\"text\":\"नमस्ते आज मौसम बहुत अच्छा है और मैं बाज़ार जा रहा हूँ\"}"}
+{"t":4237,"phase":"finish","data":"{\"event\":\"transcript.final\",\"utterance_idx\":0,\"text\":\"नमस्ते, आज मौसम बहुत अच्छा है और मैं बाज़ार जा रहा हूँ।\"}"}
+{"t":4268,"phase":"finish","data":"{\"event\":\"session.end\",\"request_id\":\"20261004_73f0588d-ccf2-484e-b6c5-71e4af3d33c0\",\"total_duration_s\":4.27,\"total_utterances\":1,\"audio_duration_s\":3.99}"}

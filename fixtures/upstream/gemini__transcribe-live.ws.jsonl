@@ -1,0 +1,13 @@
+{"meta":{"model":"gemini/transcribe-live","upstreamModel":"gemini-3.5-transcribe-live","url":"wss://generativelanguage.googleapis.com/ws/google.ai.generativelanguage.v1beta.GenerativeService.BidiGenerateContentConstrained?access_token=<redacted>","audio":"hi-4s.wav","recordedAt":"2026-10-04T03:58:47.458Z"}}
+{"t":0,"phase":"stream","data":"{\n  \"setupComplete\": {}\n}\n"}
+{"t":205,"phase":"stream","data":"{\n  \"serverContent\": {},\n  \"voiceActivity\": {\n    \"type\": \"ACTIVITY_START\",\n    \"audioOffset\": \"0.200s\"\n  }\n}\n"}
+{"t":1477,"phase":"stream","data":"{\n  \"serverContent\": {\n    \"interimInputTranscription\": {\n      \"text\": \"नमस्ते\"\n    }\n  }\n}\n"}
+{"t":1992,"phase":"stream","data":"{\n  \"serverContent\": {\n    \"interimInputTranscription\": {\n      \"text\": \"नमस्ते, आज\"\n    }\n  }\n}\n"}
+{"t":2496,"phase":"stream","data":"{\n  \"serverContent\": {\n    \"interimInputTranscription\": {\n      \"text\": \"नमस्ते, आज मौसम बहुत\"\n    }\n  }\n}\n"}
+{"t":2978,"phase":"stream","data":"{\n  \"serverContent\": {\n    \"interimInputTranscription\": {\n      \"text\": \"नमस्ते, आज मौसम बहुत अच्छा है।\"\n    }\n  }\n}\n"}
+{"t":3464,"phase":"stream","data":"{\n  \"serverContent\": {\n    \"interimInputTranscription\": {\n      \"text\": \"नमस्ते, आज मौसम बहुत अच्छा है और मैं\"\n    }\n  }\n}\n"}
+{"t":3924,"phase":"stream","data":"{\n  \"serverContent\": {\n    \"interimInputTranscription\": {\n      \"text\": \"नमस्ते, आज मौसम बहुत अच्छा है और मैं\"\n    }\n  }\n}\n"}
+{"t":4409,"phase":"finish","data":"{\n  \"serverContent\": {\n    \"interimInputTranscription\": {\n      \"text\": \"नमस्ते, आज मौसम बहुत अच्छा है और मैं बाजार जा\"\n    }\n  }\n}\n"}
+{"t":4675,"phase":"finish","data":"{\n  \"serverContent\": {\n    \"inputTranscription\": {\n      \"text\": \"नमस्ते, आज मौसम बहुत अच्छा है और मैं बाजार जा रहा हूं।\"\n    }\n  }\n}\n"}
+{"t":4675,"phase":"finish","data":"{\n  \"serverContent\": {\n    \"generationComplete\": true\n  }\n}\n"}
+{"t":4675,"phase":"finish","data":"{\n  \"serverContent\": {},\n  \"voiceActivity\": {\n    \"type\": \"ACTIVITY_END\",\n    \"audioOffset\": \"3.988375s\"\n  }\n}\n"}
